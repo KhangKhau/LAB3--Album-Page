@@ -6,7 +6,7 @@
 </head>
 
 
-<style type="text/css">
+<!--<style type="text/css">
   header{
     text-align: center;
   }
@@ -41,7 +41,7 @@
   table caption h2{
     margin-bottom:10px;
   }
-</style>
+</style>-->
 
 <body>
   <header>
