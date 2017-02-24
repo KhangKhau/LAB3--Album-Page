@@ -45,15 +45,16 @@
 
 <body>
   <header>
-    <img src="https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)#/media/File:..._Baby_One_More_Time_(album).png:" alt="Album cover" />
-    <h1> Album Title</h1>
-    <h2>
-      <a href="https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)">Band Name</a>
-    </h2>
-    <div>
-      Release Date
-    </div>
-    
+    <center>
+      <img src="https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)#/media/File:..._Baby_One_More_Time_(album).png:" alt="Album cover" />
+      <h1> Album Title</h1>
+      <h2>
+        <a href="https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)">Band Name</a>
+      </h2>
+      <div>
+        Release Date
+      </div>
+    </center>
   </header>
   <hr>
   <section>
@@ -68,7 +69,7 @@
   </section>
   <table border="1" width="100%">
     <caption> <h2>Tracks</h2> </caption>
-    <tr>
+    <tr bgcolor="grey">
       <th> Track# </th>
       <th> Track Title </th>
       <th> Track Length </th>
