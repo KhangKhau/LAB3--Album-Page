@@ -32,7 +32,7 @@
   table{
     text-align: center;
     border: 1px solid black;
-    border-spacing: 0px;
+>    border-spacing: 0px;
   }
   th{
     background-color: gray;
@@ -61,7 +61,7 @@
   </header>
   <hr>
   <section>
-    <h2>  Band Members and Producers </h2>
+    <h2 style="color: red; font-weight: bold;">  Band Members and Producers </h2>
     <ul>
       <li>Amanda Rootes – vocals, guitar</li>
       <li>MBridget Jones – guitar</li>
